@@ -70,7 +70,7 @@ nav a{
     padding: 130px;
     border-radius: 10px;
     background: #fff8f3;
-    margin: 130px 50px;
+    margin: 130px 0px;
 }
 .sec-title{
     color: #181818 ;
@@ -82,4 +82,18 @@ nav a{
     text-align: center;
     color: #757575;
     font-size: 18px;
+}
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+.about-info-contain{
+    display: flex;
+    justify-content: space-around;
+
+}
+.about-info{
+    text-align: center;
+    padding: 10px;
+    
 }
