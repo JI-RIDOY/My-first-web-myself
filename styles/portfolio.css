@@ -39,7 +39,7 @@ nav a{
     color: #181818;
 }
 .banner{
-    padding: 30px 30px 30px 150px ;
+    padding: 30px 30px 0px 150px ;
     display: flex;
     align-items: center;
 
@@ -47,14 +47,39 @@ nav a{
 }
 .header{
     background-color: #fff8f3;
+    background-image: url('../images/header_bg.png');
+    background-repeat: no-repeat;
+    background-position: bottom right;
 
 }
 .banner-gree{
+    font-size: 45px;
+    color: #474747;
 
 }
 .banner-title{
-
+     font-size: 85px;
+     font-weight: 70px;
+     margin-top: 5px;
+     margin-bottom: 20px;
 }
 .dp{
     width: 500px;
+}
+.about{
+    padding: 130px;
+    border-radius: 10px;
+    background: #fff8f3;
+    margin: 130px 50px;
+}
+.sec-title{
+    color: #181818 ;
+    text-align: center;
+    font-size: 35px;
+    font-weight: 700;
+}
+.sec-dec{
+    text-align: center;
+    color: #757575;
+    font-size: 18px;
 }
