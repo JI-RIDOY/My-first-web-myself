@@ -38,3 +38,23 @@ nav a{
     text-decoration: none;
     color: #181818;
 }
+.banner{
+    padding: 30px 30px 30px 150px ;
+    display: flex;
+    align-items: center;
+
+  
+}
+.header{
+    background-color: #fff8f3;
+
+}
+.banner-gree{
+
+}
+.banner-title{
+
+}
+.dp{
+    width: 500px;
+}
